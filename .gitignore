@@ -17,4 +17,4 @@ dataset/ori_without_text/
 !assets/framework.png
 !scripts/direct_mimic/get_results.ipynb
 dataset
-.history
+.historyDeepSeek-VL/

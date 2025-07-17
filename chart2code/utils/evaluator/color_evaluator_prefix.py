@@ -542,7 +542,7 @@ def update_drawed_colors(drawed_obejcts):
         func_name = name.split("--")[0]
         color = name.split("--")[1]
 
-        if "/_make_line" in func_name:
+        if "/_makeline" in func_name:
             color = convert_color_to_hex(obj.get_color())
             drawed_colors.append( func_name + "--" + color )
         elif "/axhline" in func_name:
@@ -692,7 +692,7 @@ def update_drawed_colors(drawed_obejcts):
 
     return drawed_colors
 
-_process_plot_var_args._make_line = log_function(_process_plot_var_args._make_line)
+_process_plot_var_args._makeline = log_function(_process_plot_var_args._makeline)
 Axes.bar = log_function(Axes.bar)
 Axes.scatter = log_function(Axes.scatter)
 Axes.axhline = log_function(Axes.axhline)

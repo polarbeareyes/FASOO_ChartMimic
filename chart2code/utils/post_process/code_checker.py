@@ -214,7 +214,12 @@ if __name__ == "__main__":
     print("Total PDF Files", len(pdf_files))
     
     # save the count to a json file
-    count = {"py_files": len(py_files), "pdf_files": len(pdf_files), "exec_rate (%) = (pdf_files/py_files)*100": (len(pdf_files)/len(py_files))*100}
+    count = {
+        "py_files": len(py_files),
+        "pdf_files": len(pdf_files),
+        f"{len(pdf_files)} / {len(py_files)} * 100": (len(pdf_files)/len(py_files))*100 if len(py_files) > 0 else 0,
+        f"{len(pdf_files)} / 600 * 100": (len(pdf_files)/600)*100
+    }
     with open(output_dir + "/count.json", "w") as f:
         json.dump(count, f)
 

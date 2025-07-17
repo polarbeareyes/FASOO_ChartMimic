@@ -1,7 +1,8 @@
-from .openai import OPENAI_GPT
-from .gemini import GEMINI
-# from .deepseekvl import DeepSeekVL
+# from .openai import OPENAI_GPT
+# from .gemini import GEMINI
+from .deepseekvl import DeepSeekVL
 # from .qwenvl import QwenVL
+# from .qwenvl2b import QwenVL2B
 # from .internvl import InternVL
 # from .idefics2 import Idefics2
 # from .llava import Llava
@@ -14,9 +15,10 @@ from .gemma import GEMMA
 
 __all__ = [
     # "OPENAI_GPT",
-    "GEMINI",
-    # "DeepSeekVL",
+    # "GEMINI",
+    "DeepSeekVL",
     # "QwenVL",
+    # "QwenVL2B",
     # "InternVL",
     # "Idefics2",
     # "Llava",

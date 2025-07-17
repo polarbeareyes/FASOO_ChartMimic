@@ -4,14 +4,14 @@ import time
 from common.registry import registry
 import base64
 import torch
-import transformers
+from transformers import AutoModel, AutoTokenizer
 from transformers import GenerationConfig
 
 @registry.register_llm("qwenvl")
 class QwenVL:
     def __init__(
         self,
-        engine="Qwen-VL-Chat",
+        engine="Qwen/Qwen-VL-Chat",
         temperature=0.1,
         max_tokens=4096,
         top_p=0.95,
@@ -30,12 +30,12 @@ class QwenVL:
         self.max_retry_iters = max_retry_iters
         self.context_length = context_length
         self.system_message = system_message
-        self.model = transformers.AutoModelForCausalLM.from_pretrained(self.engine, 
+        self.model = AutoModel.from_pretrained(self.engine, 
             trust_remote_code=True,
             device_map="auto",
             torch_dtype=torch.bfloat16
         ).eval()
-        self.tokenizer = transformers.AutoTokenizer.from_pretrained(self.engine, trust_remote_code=True)
+        self.tokenizer = AutoTokenizer.from_pretrained(self.engine, trust_remote_code=True)
         self.generation_config = self.model.generation_config
         self.generation_config.max_new_tokens = self.max_tokens
         self.generation_config.temperature=self.temperature

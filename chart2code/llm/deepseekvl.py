@@ -12,7 +12,7 @@ from deepseek_vl.utils.io import load_pil_images
 class DeepSeekVL:
     def __init__(
         self,
-        engine="deepseek-vl-7b-chat",
+        engine="deepseek-ai/deepseek-vl-7b-chat",
         temperature=0.1,
         max_tokens=4096,
         top_p=0.95,
