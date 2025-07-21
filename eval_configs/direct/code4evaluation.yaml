@@ -25,7 +25,7 @@ llm:
       stop: []
       use_parser: False
   deepseek-vl-7b-chat:
-      name: deepseekvl
+      name: deepseek-vl-7b-chat
       engine: deepseek-ai/deepseek-vl-7b-chat
       context_length: 4096
       max_tokens: 4096

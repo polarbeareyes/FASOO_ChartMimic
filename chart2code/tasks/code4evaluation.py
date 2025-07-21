@@ -154,10 +154,10 @@ class Code4Evaluation(BaseTask):
     ):
         llm_config["name"] = llm_config.get("name", "gpt")
         agent_config["name"] = agent_config.get("name", "vanilla")
-        if "EditAgent" in agent_config["name"]:
-            run_config["generated_dataset_dir"] = run_config.get("generated_dataset_dir") + f"/chartedit_{llm_config['model']}_{agent_config['name']}_results"
-        else:
-            run_config["generated_dataset_dir"] = run_config.get("generated_dataset_dir") + f"/chart2code_{llm_config['model']}_{agent_config['name']}_results"
+        # if "EditAgent" in agent_config["name"]:
+        #     run_config["generated_dataset_dir"] = run_config.get("generated_dataset_dir") + f"/chartedit_{llm_config['model']}_{agent_config['name']}_results"
+        # else:
+        #     run_config["generated_dataset_dir"] = run_config.get("generated_dataset_dir") + f"/chart2code_{llm_config['model']}_{agent_config['name']}_results"
 
         return cls(
             run_config=run_config,
