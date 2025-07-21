@@ -156,7 +156,7 @@ llm:
       stop: []
   gemma:
       name: gemma
-      engine: google/gemma-3-4b-it
+      engine: Models/gemma-3-4b-it_chart2code_2000
       context_length: 4096
       max_tokens: 4096
       temperature: 0.1

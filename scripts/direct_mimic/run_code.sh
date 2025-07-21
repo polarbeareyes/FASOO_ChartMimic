@@ -1,5 +1,5 @@
 models=(
-  "deepseekvl"
+  "gemma"
 )
 
 template_type=direct;agent_type=DirectAgent

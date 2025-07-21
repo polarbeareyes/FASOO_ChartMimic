@@ -103,6 +103,7 @@ class Code4Evaluation(BaseTask):
         color_evaluator = ColorEvaluator()
         layout_evaluator = LayoutEvaluator()
 
+
         for i in tqdm(range(len(sub_index)), disable=rank != 0):
             original_py_file = self.dataset[sub_index[i]]["file"]
             generated_py_file = original_py_file.replace(

@@ -7,7 +7,7 @@ from common.registry import registry
 class GEMMA:
     def __init__(
         self,
-        engine="google/gemma-3-4b-it",
+        engine="Models/gemma-3-4b-it_chart2code_2000",
         temperature=0.1,
         max_tokens=512,
         top_p=0.95,

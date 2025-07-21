@@ -1,5 +1,5 @@
 models=(
-  "deepseek-vl-7b-chat"
+  "gemma"
 )
 
 for model in "${models[@]}"; do

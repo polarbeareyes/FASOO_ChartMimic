@@ -1,0 +1,12 @@
+[
+  {
+    "original": "/root/SOJUNG_STUFF/ChartMimic/dataset/ori_600/errorbar_2.py",
+    "avg_f1_file1": 0.595183489775,
+    "avg_f1_file2": 0.5359502202
+  },
+  {
+    "original": "/root/SOJUNG_STUFF/ChartMimic/dataset/ori_600/multidiff_1.py",
+    "avg_f1_file1": 0.31352521764999997,
+    "avg_f1_file2": 0.30114757085
+  }
+]

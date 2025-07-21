@@ -12,12 +12,20 @@ import glob
 load_dotenv()
 
 
+# def extract_code(text):
+#     """Extract code from markdown text."""
+#     code = re.findall(r"```python(.*?)```", text, re.DOTALL)
+#     if len(code) == 0:
+#         code = [""]
+#     return code
+
 def extract_code(text):
-    """Extract code from markdown text."""
-    code = re.findall(r"```python(.*?)```", text, re.DOTALL)
-    if len(code) == 0:
-        code = [""]
-    return code
+    """Extract the last code block from markdown text."""
+    code_blocks = re.findall(r"```python(.*?)```", text, re.DOTALL)
+    if len(code_blocks) == 0:
+        return [""]
+    return [code_blocks[-1]]  # Return the last block as a list
+
 
 def get_variable_code(file):
     edit_ori_file = "{}/dataset/customized_500/".format(os.environ["PROJECT_PATH"]) + file

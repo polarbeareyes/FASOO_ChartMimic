@@ -16,7 +16,7 @@ def extract_code(text):
     code = re.findall(r"```python(.*?)```", text, re.DOTALL)
     if len(code) == 0:
         code = ["import matplotlib.pyplot as plt"]
-    return code
+    return code[-1]
 
 def get_variable_code(file):
     edit_ori_file = "{}/dataset/customized_500/".format(os.environ["PROJECT_PATH"]) + file
