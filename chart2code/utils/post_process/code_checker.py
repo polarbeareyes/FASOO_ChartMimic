@@ -19,6 +19,14 @@ load_dotenv()
 #         code = [""]
 #     return code
 
+# def extract_code(text):
+#     """Extract the last code block enclosed in <code>...</code> tags."""
+#     code_blocks = re.findall(r"<code>(.*?)</code>", text, re.DOTALL)
+#     if len(code_blocks) == 0:
+#         return [""]
+#     return [code_blocks[-1]]  # Return the last block as a list
+
+
 def extract_code(text):
     """Extract the last code block from markdown text."""
     code_blocks = re.findall(r"```python(.*?)```", text, re.DOTALL)

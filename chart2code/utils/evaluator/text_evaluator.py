@@ -1,4 +1,7 @@
 from typing import List, Tuple, Any
+import numpy as np
+
+
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -64,7 +67,9 @@ class TextEvaluator:
         if os.path.exists(output_file) == True:
             with open(output_file, 'r') as f:
                 texts = f.read()
-                texts = eval(texts)
+                texts = eval(texts, {"np": np})
+
+                # texts = eval(texts)
             os.remove(output_file)
         else:
             texts = []

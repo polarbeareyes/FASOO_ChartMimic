@@ -29,8 +29,8 @@ class ChartTypeEvaluator:
         self._calculate_metrics(generation_chart_types, golden_chart_types)
 
         redunant_file = os.environ["PROJECT_PATH"] + "/" + os.path.basename(golden_code_file).replace(".py", ".pdf")
-        # if os.path.exists(redunant_file) == True:
-        os.remove(redunant_file)
+        if os.path.exists(redunant_file) == True:
+            os.remove(redunant_file)
 
         # print(self.metrics)
     

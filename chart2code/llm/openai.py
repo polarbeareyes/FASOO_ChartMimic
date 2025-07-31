@@ -9,7 +9,7 @@ import base64
 class OPENAI_GPT:
     def __init__(
         self,
-        engine="gpt-4-vision-preview",
+        engine="o4-mini",
         temperature=0.1,
         max_tokens=4096,
         top_p=0.95,

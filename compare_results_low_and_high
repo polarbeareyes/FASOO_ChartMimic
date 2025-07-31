@@ -1,0 +1,43 @@
+import json
+
+# Load JSON data
+with open("/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results_code4evaluation.json", "r") as f:
+    first = [json.loads(line) for line in f if line.strip()]
+with open("/root/SOJUNG_STUFF/ChartMimic/highlv_eval/gemma_notrain_directcheck/highlv_results.json", "r") as f:
+    second=json.load(f)
+
+# Clean helper for filename (extract basename without path or extension)
+def get_file_id(path):
+    return path.split("/")[-1].split(".")[0]
+
+# First: Get files where all f1 scores are 0
+all_zero_f1 = []
+for entry in first:
+    f1s = [
+        entry["text_metrics"]["f1"],
+        entry["chart_type_metrics"]["f1"],
+        entry["layout_metrics"]["f1"],
+        entry["color_metrics"]["f1"],
+    ]
+    if all(f == 0 for f in f1s):
+        all_zero_f1.append(get_file_id(entry["orginial"]))
+
+# Second: Get files from diffs.json where score == 0
+score_zero = [d["file"] for d in second if d["score"] == 0]
+
+# Third: Find intersection
+both_zero = list(set(all_zero_f1) & set(score_zero))
+
+# Output format
+result = [
+    {"from low level file": all_zero_f1},
+    {"low level file 0s length": len(all_zero_f1)},
+    {"from high level file": score_zero},
+    {"high level file 0s length": len(score_zero)},
+    {"both file that both score is 0": both_zero},
+    {"both file 0s length": len(both_zero)}
+]
+
+# Save result
+with open("gemma-nontrained_compare_results_low_and_high.json", "w") as f:
+    json.dump(result, f, indent=2)

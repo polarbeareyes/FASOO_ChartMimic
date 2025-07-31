@@ -5,6 +5,7 @@ import base64
 import PyPDF2
 import os
 import pandas as pd
+# from prompt_template import prompt_templates
 
 from dotenv import load_dotenv
 
@@ -27,6 +28,7 @@ class DirectAgent(BaseAgent):
         if prompt_path is not None:  # load from file
             self.init_prompt_dict = json.load(open(prompt_path, "r"))
             self.instruction = self.init_prompt_dict["instruction"]
+            # self.system_msg = self.init_prompt_dict.get("system_msg", "")
         else:
             raise Exception("init_prompt_path is None")
 
@@ -50,6 +52,27 @@ class DirectAgent(BaseAgent):
         return width, height
     
     def _constract_conversation(self, file, width, height):
+        # user_prompt = self.instruction.format(height=height, width=width)
+
+        # if self.prompt_format not in prompt_templates:
+        #     raise ValueError(f"Unsupported prompt format: {self.prompt_format}")
+    
+        # template = prompt_templates[self.prompt_format]
+        # formatted_prompt = template.format(
+        #     system_prompt=self.system_msg,
+        #     prompt=user_prompt
+        # )
+
+        # conversation = [
+        #     {
+        #         "role": "user",
+        #         "content": [
+        #             {"type": "text", "text": formatted_prompt},
+        #             {"type": "image", "image_url": file.replace(".pdf", ".png")},
+        #         ],
+        #     }
+        # ]
+        # return conversation
         conversation = [
             {
                 "role": "user",
@@ -67,4 +90,5 @@ class DirectAgent(BaseAgent):
     @classmethod
     def from_config(cls, llm_model, config):
         init_prompt_path = config.get("prompt_path", None)
+        # prompt_format = config.get("prompt_format", "gemma")
         return cls(llm_model, init_prompt_path)

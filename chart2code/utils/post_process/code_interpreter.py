@@ -16,7 +16,14 @@ def extract_code(text):
     code = re.findall(r"```python(.*?)```", text, re.DOTALL)
     if len(code) == 0:
         code = ["import matplotlib.pyplot as plt"]
-    return code[-1]
+    return code
+# def extract_code(text):
+#     """Extract the last code block enclosed in <code>...</code> tags."""
+#     code_blocks = re.findall(r"<code>(.*?)</code>", text, re.DOTALL)
+#     if len(code_blocks) == 0:
+#         return [""]
+#     return [code_blocks[-1]]  # Return the last block as a list
+
 
 def get_variable_code(file):
     edit_ori_file = "{}/dataset/customized_500/".format(os.environ["PROJECT_PATH"]) + file

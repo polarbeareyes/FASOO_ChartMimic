@@ -5,7 +5,7 @@ agent:
 llm:
   gpt-4-vision-preview:
       name: gpt
-      engine: gpt-4-vision-preview
+      engine: o4-mini
       context_length: 4096
       max_tokens: 4096
       temperature: 0.0
@@ -185,7 +185,9 @@ llm:
       stop: []
   gemma:
       name: gemma
-      engine: Models/gemma-3-4b-it_chart2code_2000
+    #   engine: ${PROJECT_PATH}/Models/gemma-3-4b-it-noCoT-40000
+    #   engine: google/gemma-3-4b-it
+      engine: louisglobal/gemma-text-to-code
       context_length: 4096
       max_tokens: 4096
       temperature: 0.1
@@ -196,13 +198,13 @@ llm:
 run:
   chart2code:
     name: chart2code
-    dataset_dir: ${PROJECT_PATH}/dataset/ori_600
+    dataset_dir: ${PROJECT_PATH}/dataset/direct_600
     result_dir: ${PROJECT_PATH}/results/direct
     num_processes: 1
   gpt4evaluation:
     name: gpt4evaluation
-    original_dataset_dir: ${PROJECT_PATH}/results/original_data
-    generated_dataset_dir: ${PROJECT_PATH}/results
+    original_dataset_dir: ${PROJECT_PATH}/results/direct_600
+    generated_dataset_dir: ${PROJECT_PATH}/results/direct
     template_type: direct
     num_processes: 20
     result_dir: ${PROJECT_PATH}/results

@@ -361,7 +361,7 @@ def log_function(func):
             
             result = func(*args, **kwargs)
 
-            if func.__name__ == "_makeline":
+            if func.__name__ == "_make_line":
                 color = convert_color_to_hex(result[1]["color"])
                 drawed_colors.append( func_name + "--" + color )
                 drawed_objects[func_name + "--" + color] = result[0]
@@ -542,7 +542,7 @@ def update_drawed_colors(drawed_obejcts):
         func_name = name.split("--")[0]
         color = name.split("--")[1]
 
-        if "/_makeline" in func_name:
+        if "/_make_line" in func_name:
             color = convert_color_to_hex(obj.get_color())
             drawed_colors.append( func_name + "--" + color )
         elif "/axhline" in func_name:
@@ -692,7 +692,7 @@ def update_drawed_colors(drawed_obejcts):
 
     return drawed_colors
 
-_process_plot_var_args._makeline = log_function(_process_plot_var_args._makeline)
+_process_plot_var_args._make_line = log_function(_process_plot_var_args._make_line)
 Axes.bar = log_function(Axes.bar)
 Axes.scatter = log_function(Axes.scatter)
 Axes.axhline = log_function(Axes.axhline)

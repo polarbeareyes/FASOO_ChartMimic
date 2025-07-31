@@ -1,0 +1,3002 @@
+[
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_19",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_14",
+    "gpt4v_score": 39
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_18",
+    "gpt4v_score": 48
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_8",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_20",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_30",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_30",
+    "gpt4v_score": 64
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_49",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_49",
+    "gpt4v_score": 76
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_3",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_18",
+    "gpt4v_score": 28
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_19",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_8",
+    "gpt4v_score": 4
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_5",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_28",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_28",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_5",
+    "gpt4v_score": 42
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_19",
+    "gpt4v_score": 28
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_2",
+    "gpt4v_score": 18
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_4",
+    "gpt4v_score": 29
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_20",
+    "gpt4v_score": 28
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_10",
+    "gpt4v_score": 69
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_12",
+    "gpt4v_score": 42
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_10",
+    "gpt4v_score": 62
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_3",
+    "gpt4v_score": 14
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_14",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_2",
+    "gpt4v_score": 14
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_1",
+    "gpt4v_score": 43
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_24",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_24",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_59",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_59",
+    "gpt4v_score": 67
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_20",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_9",
+    "gpt4v_score": 7
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_14",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_4",
+    "gpt4v_score": 62
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_8",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_19",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_10",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_9",
+    "gpt4v_score": 32
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_1",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_28",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_28",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_18",
+    "gpt4v_score": 18
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_6",
+    "gpt4v_score": 52
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_8",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_1",
+    "gpt4v_score": 31
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_7",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_18",
+    "gpt4v_score": 26
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_5",
+    "gpt4v_score": 38
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_9",
+    "gpt4v_score": 16
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_6",
+    "gpt4v_score": 60
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_20",
+    "gpt4v_score": 35
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_10",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_20",
+    "gpt4v_score": 18
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_22",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_22",
+    "gpt4v_score": 18
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_14",
+    "gpt4v_score": 73
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_24",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_24",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_14",
+    "gpt4v_score": 10
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_16",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_38",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_38",
+    "gpt4v_score": 36
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_7",
+    "gpt4v_score": 42
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_69",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_69",
+    "gpt4v_score": 56
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_10",
+    "gpt4v_score": 35
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_8",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_24",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_24",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_4",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_18",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_11",
+    "gpt4v_score": 30
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_8",
+    "gpt4v_score": 21
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_19",
+    "gpt4v_score": 37
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_29",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_29",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_7",
+    "gpt4v_score": 36
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_9",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_6",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_19",
+    "gpt4v_score": 32
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_4",
+    "gpt4v_score": 32
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_11",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_8",
+    "gpt4v_score": 52
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_7",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_23",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_23",
+    "gpt4v_score": 19
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_21",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_21",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_25",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_25",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_15",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_1",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_17",
+    "gpt4v_score": 61
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_15",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_6",
+    "gpt4v_score": 57
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_39",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_39",
+    "gpt4v_score": 28
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_68",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_68",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_9",
+    "gpt4v_score": 29
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_11",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_1",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_25",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_25",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_5",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_15",
+    "gpt4v_score": 38
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_18",
+    "gpt4v_score": 25
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_19",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_9",
+    "gpt4v_score": 52
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_48",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_48",
+    "gpt4v_score": 40
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_2",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_19",
+    "gpt4v_score": 20
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_18",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_9",
+    "gpt4v_score": 21
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_4",
+    "gpt4v_score": 60
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_29",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_29",
+    "gpt4v_score": 28
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_18",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_4",
+    "gpt4v_score": 58
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_3",
+    "gpt4v_score": 9
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_5",
+    "gpt4v_score": 47
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_11",
+    "gpt4v_score": 72
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_21",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_21",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_11",
+    "gpt4v_score": 26
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_13",
+    "gpt4v_score": 44
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_2",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_3",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_15",
+    "gpt4v_score": 9
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_25",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_25",
+    "gpt4v_score": 7
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_58",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_58",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_1",
+    "gpt4v_score": 27
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_21",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_21",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_8",
+    "gpt4v_score": 18
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_15",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_5",
+    "gpt4v_score": 51
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_9",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_10",
+    "gpt4v_score": 39
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_13",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_2",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_16",
+    "gpt4v_score": 11
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_43",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_43",
+    "gpt4v_score": 12
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_9",
+    "gpt4v_score": 31
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_20",
+    "gpt4v_score": 16
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_12",
+    "gpt4v_score": 33
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_13",
+    "gpt4v_score": 46
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_8",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_5",
+    "gpt4v_score": 70
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_24",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_24",
+    "gpt4v_score": 24
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_6",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_16",
+    "gpt4v_score": 38
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_14",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_26",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_26",
+    "gpt4v_score": 40
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_22",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_22",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_7",
+    "gpt4v_score": 17
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_15",
+    "gpt4v_score": 78
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_12",
+    "gpt4v_score": 51
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_51",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_51",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_13",
+    "gpt4v_score": 62
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_10",
+    "gpt4v_score": 33
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_65",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_65",
+    "gpt4v_score": 37
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_34",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_34",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_2",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_17",
+    "gpt4v_score": 25
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_4",
+    "gpt4v_score": 67
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_3",
+    "gpt4v_score": 17
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_24",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_24",
+    "gpt4v_score": 65
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_10",
+    "gpt4v_score": 40
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_75",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_75",
+    "gpt4v_score": 27
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_2",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_6",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_41",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_41",
+    "gpt4v_score": 30
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_10",
+    "gpt4v_score": 62
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_10",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_67",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_67",
+    "gpt4v_score": 33
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_18",
+    "gpt4v_score": 62
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_9",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_36",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_36",
+    "gpt4v_score": 28
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_53",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_53",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_5",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_8",
+    "gpt4v_score": 63
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_7",
+    "gpt4v_score": 74
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_11",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_1",
+    "gpt4v_score": 63
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_23",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_23",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_2",
+    "gpt4v_score": 25
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_20",
+    "gpt4v_score": 16
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_17",
+    "gpt4v_score": 20
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_11",
+    "gpt4v_score": 65
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_3",
+    "gpt4v_score": 25
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_26",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_26",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_22",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_22",
+    "gpt4v_score": 32
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_12",
+    "gpt4v_score": 58
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_10",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_6",
+    "gpt4v_score": 25
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_17",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_14",
+    "gpt4v_score": 41
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_16",
+    "gpt4v_score": 71
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_47",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_47",
+    "gpt4v_score": 78
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_12",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_30",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_30",
+    "gpt4v_score": 20
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_14",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_61",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_61",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_13",
+    "gpt4v_score": 26
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_6",
+    "gpt4v_score": 25
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_20",
+    "gpt4v_score": 86
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_55",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_55",
+    "gpt4v_score": 72
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_16",
+    "gpt4v_score": 47
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_17",
+    "gpt4v_score": 25
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_6",
+    "gpt4v_score": 46
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_14",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_14",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_45",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_45",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_2",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_20",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_4",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_7",
+    "gpt4v_score": 11
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_14",
+    "gpt4v_score": 42
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_71",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_71",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_20",
+    "gpt4v_score": 26
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_20",
+    "gpt4v_score": 58
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_57",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_57",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_1",
+    "gpt4v_score": 30
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_3",
+    "gpt4v_score": 56
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_15",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_32",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_32",
+    "gpt4v_score": 60
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_63",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_63",
+    "gpt4v_score": 55
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_30",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_30",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_21",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_21",
+    "gpt4v_score": 26
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_3",
+    "gpt4v_score": 40
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_22",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_22",
+    "gpt4v_score": 46
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_16",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_27",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_27",
+    "gpt4v_score": 26
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_2",
+    "gpt4v_score": 36
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_10",
+    "gpt4v_score": 27
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_11",
+    "gpt4v_score": 50
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_13",
+    "gpt4v_score": 60
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_23",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_23",
+    "gpt4v_score": 51
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_7",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_15",
+    "gpt4v_score": 12
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_16",
+    "gpt4v_score": 51
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_17",
+    "gpt4v_score": 44
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_13",
+    "gpt4v_score": 12
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_46",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_46",
+    "gpt4v_score": 55
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_31",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_31",
+    "gpt4v_score": 55
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_15",
+    "gpt4v_score": 21
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_60",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_60",
+    "gpt4v_score": 48
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_7",
+    "gpt4v_score": 17
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_12",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_1",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_17",
+    "gpt4v_score": 37
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_54",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_54",
+    "gpt4v_score": 55
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_16",
+    "gpt4v_score": 16
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_7",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_15",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_15",
+    "gpt4v_score": 15
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_3",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_44",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_44",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_5",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_6",
+    "gpt4v_score": 12
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_15",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_70",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_70",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_21",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_21",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_56",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_56",
+    "gpt4v_score": 20
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_2",
+    "gpt4v_score": 35
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_14",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_33",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_33",
+    "gpt4v_score": 58
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_62",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_62",
+    "gpt4v_score": 23
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_20",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_12",
+    "gpt4v_score": 52
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_11",
+    "gpt4v_score": 49
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_3",
+    "gpt4v_score": 13
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_42",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_42",
+    "gpt4v_score": 13
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_20",
+    "gpt4v_score": 65
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_17",
+    "gpt4v_score": 22
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_8",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_13",
+    "gpt4v_score": 46
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_12",
+    "gpt4v_score": 12
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_4",
+    "gpt4v_score": 31
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_9",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_7",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_25",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_25",
+    "gpt4v_score": 31
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_27",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_27",
+    "gpt4v_score": 62
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_15",
+    "gpt4v_score": 50
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_17",
+    "gpt4v_score": 62
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_14",
+    "gpt4v_score": 65
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_6",
+    "gpt4v_score": 28
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_23",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_23",
+    "gpt4v_score": 18
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_50",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_50",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_13",
+    "gpt4v_score": 45
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_12",
+    "gpt4v_score": 35
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_11",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_64",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_64",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_35",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_35",
+    "gpt4v_score": 53
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_5",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_16",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_3",
+    "gpt4v_score": 25
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_1",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_2",
+    "gpt4v_score": 20
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_25",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_25",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_11",
+    "gpt4v_score": 32
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_74",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_74",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_3",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_40",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_40",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_7",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_11",
+    "gpt4v_score": 60
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_11",
+    "gpt4v_score": 68
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_66",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_66",
+    "gpt4v_score": 29
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_19",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_37",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_37",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_8",
+    "gpt4v_score": 65
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_52",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_52",
+    "gpt4v_score": 39
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_4",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_9",
+    "gpt4v_score": 37
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_6",
+    "gpt4v_score": 60
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_10",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_12",
+    "gpt4v_score": 15
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_10",
+    "gpt4v_score": 46
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_20",
+    "gpt4v_score": 19
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_24",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_24",
+    "gpt4v_score": 48
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_9",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_1",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_13",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_9",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_15",
+    "gpt4v_score": 23
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_3",
+    "gpt4v_score": 47
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_22",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_22",
+    "gpt4v_score": 24
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_21",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_21",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_10",
+    "gpt4v_score": 31
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_45",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_45",
+    "gpt4v_score": 25
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_14",
+    "gpt4v_score": 40
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_16",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_15",
+    "gpt4v_score": 33
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_4",
+    "gpt4v_score": 15
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_4",
+    "gpt4v_score": 35
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_11",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_2",
+    "gpt4v_score": 45
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_16",
+    "gpt4v_score": 54
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_63",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_63",
+    "gpt4v_score": 38
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_20",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_32",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_32",
+    "gpt4v_score": 32
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_15",
+    "gpt4v_score": 20
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_18",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_14",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_57",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_57",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_47",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_47",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_18",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_16",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_16",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_8",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_4",
+    "gpt4v_score": 26
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_22",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_22",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_16",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_73",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_73",
+    "gpt4v_score": 56
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_6",
+    "gpt4v_score": 20
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_80",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_80",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_5",
+    "gpt4v_score": 42
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_18",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_1",
+    "gpt4v_score": 80
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_17",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_55",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_55",
+    "gpt4v_score": 68
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_3",
+    "gpt4v_score": 33
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_8",
+    "gpt4v_score": 40
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_61",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_61",
+    "gpt4v_score": 48
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_30",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_30",
+    "gpt4v_score": 75
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_10",
+    "gpt4v_score": 60
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_20",
+    "gpt4v_score": 18
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_41",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_41",
+    "gpt4v_score": 21
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_14",
+    "gpt4v_score": 62
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_11",
+    "gpt4v_score": 34
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_12",
+    "gpt4v_score": 37
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_17",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_5",
+    "gpt4v_score": 5
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_20",
+    "gpt4v_score": 23
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_24",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_24",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_16",
+    "gpt4v_score": 51
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_14",
+    "gpt4v_score": 59
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_7",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_4",
+    "gpt4v_score": 30
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_25",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_25",
+    "gpt4v_score": 25
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_26",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_26",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_11",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_11",
+    "gpt4v_score": 22
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_53",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_53",
+    "gpt4v_score": 62
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_10",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_6",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_15",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_36",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_36",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_12",
+    "gpt4v_score": 43
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_67",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_67",
+    "gpt4v_score": 60
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_12",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_77",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_77",
+    "gpt4v_score": 75
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_28",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_28",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_8",
+    "gpt4v_score": 32
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_26",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_26",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_2",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_1",
+    "gpt4v_score": 15
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_12",
+    "gpt4v_score": 10
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_12",
+    "gpt4v_score": 69
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_43",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_43",
+    "gpt4v_score": 11
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_4",
+    "gpt4v_score": 17
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_18",
+    "gpt4v_score": 40
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_18",
+    "gpt4v_score": 36
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_34",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_34",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_65",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_65",
+    "gpt4v_score": 42
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_30",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_30",
+    "gpt4v_score": 53
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_9",
+    "gpt4v_score": 34
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_5",
+    "gpt4v_score": 49
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_13",
+    "gpt4v_score": 17
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_51",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_51",
+    "gpt4v_score": 18
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_7",
+    "gpt4v_score": 25
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_11",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_15",
+    "gpt4v_score": 27
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_40",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_40",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_1",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_13",
+    "gpt4v_score": 38
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_10",
+    "gpt4v_score": 20
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_21",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_21",
+    "gpt4v_score": 5
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_4",
+    "gpt4v_score": 12
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_16",
+    "gpt4v_score": 70
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_15",
+    "gpt4v_score": 60
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_17",
+    "gpt4v_score": 50
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_25",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_25",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_6",
+    "gpt4v_score": 45
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_27",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_27",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_24",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_24",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_5",
+    "gpt4v_score": 43
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_10",
+    "gpt4v_score": 8
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_10",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_20",
+    "gpt4v_score": 8
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_11",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_52",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_52",
+    "gpt4v_score": 29
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_1",
+    "gpt4v_score": 18
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_14",
+    "gpt4v_score": 11
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_7",
+    "gpt4v_score": 61
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_37",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_37",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_13",
+    "gpt4v_score": 17
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_66",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_66",
+    "gpt4v_score": 15
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_13",
+    "gpt4v_score": 50
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_76",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_76",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_29",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_29",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_27",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_27",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_9",
+    "gpt4v_score": 46
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_3",
+    "gpt4v_score": 52
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_13",
+    "gpt4v_score": 14
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_13",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_5",
+    "gpt4v_score": 58
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_42",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_42",
+    "gpt4v_score": 38
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_1",
+    "gpt4v_score": 28
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_19",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_19",
+    "gpt4v_score": 55
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_35",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_35",
+    "gpt4v_score": 32
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_64",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_64",
+    "gpt4v_score": 67
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_8",
+    "gpt4v_score": 10
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_4",
+    "gpt4v_score": 51
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_12",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_50",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_50",
+    "gpt4v_score": 45
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_6",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_21",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_21",
+    "gpt4v_score": 61
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_11",
+    "gpt4v_score": 11
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_13",
+    "gpt4v_score": 8
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_12",
+    "gpt4v_score": 38
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_70",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_70",
+    "gpt4v_score": 14
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_25",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_25",
+    "gpt4v_score": 34
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_8",
+    "gpt4v_score": 60
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_14",
+    "gpt4v_score": 17
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_8",
+    "gpt4v_score": 34
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_2",
+    "gpt4v_score": 27
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_1",
+    "gpt4v_score": 35
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_20",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_23",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_23",
+    "gpt4v_score": 28
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_44",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_44",
+    "gpt4v_score": 63
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_11",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_15",
+    "gpt4v_score": 65
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_14",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_17",
+    "gpt4v_score": 33
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_5",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_20",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_3",
+    "gpt4v_score": 19
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/radar_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/radar_10",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/tree_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/tree_5",
+    "gpt4v_score": 17
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_20",
+    "gpt4v_score": 23
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_17",
+    "gpt4v_score": 64
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_62",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_62",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_33",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_33",
+    "gpt4v_score": 33
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_19",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/PIP_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/PIP_14",
+    "gpt4v_score": 29
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_56",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_56",
+    "gpt4v_score": 36
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_15",
+    "gpt4v_score": 50
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_46",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_46",
+    "gpt4v_score": 75
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_19",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorbar_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorbar_1",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_17",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_17",
+    "gpt4v_score": 18
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_9",
+    "gpt4v_score": 20
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_5",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_23",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_23",
+    "gpt4v_score": 47
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_17",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_72",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_72",
+    "gpt4v_score": 74
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_7",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_4",
+    "gpt4v_score": 47
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_19",
+    "gpt4v_score": 16
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_16",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_54",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_54",
+    "gpt4v_score": 28
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_2",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_9",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_60",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_60",
+    "gpt4v_score": 58
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_31",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_31",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_69",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_69",
+    "gpt4v_score": 26
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_38",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_38",
+    "gpt4v_score": 46
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_8",
+    "gpt4v_score": 40
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_12",
+    "gpt4v_score": 40
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_3",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_4",
+    "gpt4v_score": 20
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_9",
+    "gpt4v_score": 57
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_28",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_28",
+    "gpt4v_score": 4
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_18",
+    "gpt4v_score": 24
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_3",
+    "gpt4v_score": 19
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_19",
+    "gpt4v_score": 24
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_5",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_20",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_20",
+    "gpt4v_score": 57
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_22",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_22",
+    "gpt4v_score": 42
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_9",
+    "gpt4v_score": 30
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_12",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_4",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_7",
+    "gpt4v_score": 18
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_14",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_14",
+    "gpt4v_score": 60
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_16",
+    "gpt4v_score": 14
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_5",
+    "gpt4v_score": 36
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_2",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_16",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_2",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_12",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_28",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_28",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_6",
+    "gpt4v_score": 49
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_26",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_26",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_79",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_79",
+    "gpt4v_score": 27
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_59",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_59",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_16",
+    "gpt4v_score": 45
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_18",
+    "gpt4v_score": 62
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_18",
+    "gpt4v_score": 71
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_1",
+    "gpt4v_score": 22
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_7",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_7",
+    "gpt4v_score": 34
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_12",
+    "gpt4v_score": 17
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_10",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_10",
+    "gpt4v_score": 27
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_1",
+    "gpt4v_score": 17
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_22",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_22",
+    "gpt4v_score": 27
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_12",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_12",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_6",
+    "gpt4v_score": 61
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_24",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_24",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_3",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_16",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_19",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_8",
+    "gpt4v_score": 48
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_18",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_22",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_22",
+    "gpt4v_score": 2
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_2",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_6",
+    "gpt4v_score": 83
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_18",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_18",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_16",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_16",
+    "gpt4v_score": 52
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_49",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_49",
+    "gpt4v_score": 15
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_58",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_58",
+    "gpt4v_score": 16
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_17",
+    "gpt4v_score": 55
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/pie_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/pie_19",
+    "gpt4v_score": 41
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_19",
+    "gpt4v_score": 45
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_1",
+    "gpt4v_score": 20
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_6",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_6",
+    "gpt4v_score": 65
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_11",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_11",
+    "gpt4v_score": 46
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_13",
+    "gpt4v_score": 35
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_13",
+    "gpt4v_score": 70
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_23",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_23",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_7",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_25",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_25",
+    "gpt4v_score": 28
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_2",
+    "gpt4v_score": 31
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_17",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_1",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_1",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/violin_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/violin_18",
+    "gpt4v_score": 37
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/box_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/box_9",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_19",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_23",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_23",
+    "gpt4v_score": 8
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_3",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_7",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_19",
+    "gpt4v_score": 20
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_19",
+    "gpt4v_score": 26
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_17",
+    "gpt4v_score": 43
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_48",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_48",
+    "gpt4v_score": 12
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_68",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_68",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_39",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_39",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_9",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_9",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/quiver_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/quiver_13",
+    "gpt4v_score": 32
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_2",
+    "gpt4v_score": 40
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/line_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/line_8",
+    "gpt4v_score": 30
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/graph_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/graph_5",
+    "gpt4v_score": 4
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_29",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_29",
+    "gpt4v_score": 23
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/errorpoint_19",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/errorpoint_19",
+    "gpt4v_score": 20
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_18",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_18",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_2",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_2",
+    "gpt4v_score": 56
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_4",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_23",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_23",
+    "gpt4v_score": 25
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_21",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_21",
+    "gpt4v_score": 18
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/contour_8",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/contour_8",
+    "gpt4v_score": 30
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/3d_5",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/3d_5",
+    "gpt4v_score": 57
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/multidiff_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/multidiff_13",
+    "gpt4v_score": 4
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/CB_6",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/CB_6",
+    "gpt4v_score": 16
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_17",
+    "gpt4v_score": 12
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/scatter_15",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/scatter_15",
+    "gpt4v_score": 19
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_4",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_4",
+    "gpt4v_score": 35
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/HR_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/HR_3",
+    "gpt4v_score": 12
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/density_17",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/density_17",
+    "gpt4v_score": 59
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/hist_3",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/hist_3",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_13",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_13",
+    "gpt4v_score": 0
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/area_7",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/area_7",
+    "gpt4v_score": 27
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_29",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_29",
+    "gpt4v_score": 37
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/heatmap_27",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/heatmap_27",
+    "gpt4v_score": 15
+  },
+  {
+    "orginial": "/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600/bar_78",
+    "generated": "/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma_nontrained_directcheck_DirectAgent_results/direct_checker/bar_78",
+    "gpt4v_score": 25
+  }
+]

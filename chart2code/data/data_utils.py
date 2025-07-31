@@ -134,7 +134,11 @@ class GPT4EvaluationDataset:
             )
             if not os.path.exists(generated_pdf_file):
                 print("Generated file not found: ", generated_pdf_file)
-                raise FileNotFoundError
+                generated_png_file = generated_pdf_file.replace(".pdf", ".png")
+                print("Creating blank PNG file instead: ", generated_png_file)
+                blank_img = Image.new("RGB", (640, 480), color="white")
+                blank_img.save(generated_png_file)
+                # raise FileNotFoundError
             else:
                 if not os.path.exists(generated_pdf_file.replace(".pdf", ".png")):
                     print("Converting pdf to png: ", generated_pdf_file)
@@ -194,16 +198,13 @@ class GPT4EvaluationDataset:
         r, g, b = rgb
         return r > 254 and g > 254 and b > 254
 
-    def is_png_white(png_path):
-        image = Image.open(png_path)
-        width, height = image.size
-
-        for x in range(width):
-            for y in range(height):
-                pixel = image.getpixel((x, y))
-                if not is_white(pixel):
-                    return False
-        return True
+    def _get_all_files(self, dataset_dir, file_type):
+        selected_files = []
+        for root, dirs, files in os.walk(dataset_dir):
+            for file in files:
+                if file.endswith(file_type):
+                    selected_files.append(root + "/" + file)
+        return selected_files
 
 
 class Code4EvaluationDataset:

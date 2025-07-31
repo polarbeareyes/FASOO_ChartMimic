@@ -1,4 +1,5 @@
 models=(
+  # "deepseek-vl-7b-chat"
   "gemma"
 )
 

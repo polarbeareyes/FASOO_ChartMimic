@@ -7,14 +7,14 @@ from common.registry import registry
 class GEMMA:
     def __init__(
         self,
-        engine="Models/gemma-3-4b-it_chart2code_2000",
+        engine="gemma-3-4b-it-noCoT-40000",
         temperature=0.1,
-        max_tokens=512,
+        max_tokens=4096,
         top_p=0.95,
         stop=[],
         retry_delays=1,
         max_retry_iters=3,
-        context_length=512,
+        context_length=4096,
         **kwargs
     ):
         self.engine = engine
@@ -84,12 +84,12 @@ class GEMMA:
     @classmethod
     def from_config(cls, config):
         return cls(
-            engine=config.get("engine", "google/gemma-3-4b-it"),
+            engine=config.get("engine", "Models/gemma-3-4b-it-noCoT-40000"),
             temperature=config.get("temperature", 0.1),
-            max_tokens=config.get("max_tokens", 512),
+            max_tokens=config.get("max_tokens", 4096),
             top_p=config.get("top_p", 0.95),
             stop=config.get("stop", []),
             retry_delays=config.get("retry_delays", 1),
             max_retry_iters=config.get("max_retry_iters", 3),
-            context_length=config.get("context_length", 512),
+            context_length=config.get("context_length", 4096),
         )

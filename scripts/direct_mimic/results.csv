@@ -1,0 +1,2 @@
+model_agent,example_count,ExecRate,TextScore,LayoutScore,TypeScore,ColorScore,Average,GPT4VScore,Overall
+deepseek-vl-7b-chat_DirectAgent,221,36.5,15.625146229783335,27.40714285715,16.78841209171667,14.974552158700002,18.6988133343375,11.498333333333333,15.098573333835418

@@ -1,0 +1,54 @@
+[
+  {
+    "file": "3d_1",
+    "score": 0,
+    "reason": "no_py"
+  },
+  {
+    "file": "3d_2",
+    "score": 27,
+    "comment": "---\n\nComments:\n\n- Chart Types (5/20):  \n  The reference shows two 3D surface plots side by side (“f(x)” and “solution”). The AI‐generated figure contains only one surface. Only one of the two chart types is present, so most of the chart‐type requirement is unmet.\n\n- Layout (1/10):  \n  The original uses a 1×2 subplot grid. The AI version collapses everything into a single subplot, so the layout does not match.\n\n- Text Content (3/20):  \n  The reference titles are “f(x)” and “solution.” The AI version uses the title “fx(x)” and omits the “solution” title entirely. It does label x, y, and z (as f(x)) but the exact titles and subplot labels are incorrect or missing.\n\n- Data (2/20):  \n  In the reference, the two surfaces are distinct Gaussian‐shaped and inverted Gaussian‐shaped surfaces over x–y. The AI plot shows a single surface that varies only in one direction (flat stripes along y), bearing no resemblance to either ground‐truth dataset.\n\n- Style (8/20):  \n  Both plots use a rainbow‐style colormap and grid lines, but the AI version’s color gradient, shading, and camera angle differ markedly. It lacks the inverted colormap on the left and the smoother peak on the right. Some stylistic elements (wireframe grid, general colormap family) are reminiscent, but key style details are missing.\n\n- Clarity (8/10):  \n  The single AI surface is rendered cleanly, with no overlaps or clutter. It is easy to read, but since it fails to match the reference, clarity alone cannot raise the score much.\n\nScore: 27/100\n\n---",
+    "reason": null
+  },
+  {
+    "file": "3d_3",
+    "score": 0,
+    "reason": "no_pdf"
+  },
+  {
+    "file": "3d_4",
+    "score": 0,
+    "reason": "no_py"
+  },
+  {
+    "file": "3d_5",
+    "score": 0,
+    "reason": "no_pdf"
+  },
+  {
+    "file": "3d_6",
+    "score": 67,
+    "comment": "---\nComments:\n\n- Chart Types (20/20):  \n  The AI-generated image produces the same single 3D surface plot as the reference. No extra or missing chart types.\n\n- Layout (10/10):  \n  Both figures consist of one 3D subplot filling the canvas. The arrangement is identical.\n\n- Text Content (12/20):  \n  The AI plot includes the X-axis label “Time” and the Y-axis label “Bus” correctly, but it adds a colorbar label “Value” that does not appear in the reference. The reference’s colorbar is unlabeled (or implicitly represents “Signal strength”), so the AI’s labeling is inconsistent with the original. There is no title in either plot, which is consistent.\n\n- Data (0/20):  \n  The surface in the reference is defined by Z = sin(sqrt(X² + Y²)), giving concentric wave rings radiating from the center. The AI’s surface uses Z = sin(X)·cos(Y), producing a grid-like saddle pattern. The data trends and shapes do not match at all.\n\n- Style (15/20):  \n  Both use the same “coolwarm” colormap, have smooth antialiasing, zero linewidth, a vertical colorbar, and the same grid styling. However, the viewing angle differs (reference at azim=45°, elevation=30°; AI at azim=30°, elevation=30°), and the AI introduces a colorbar label. These minor style and labeling differences prevent a perfect match.\n\n- Clarity (10/10):  \n  Both plots are rendered clearly, with no overlapped or crowded elements. The surface, axes, and colorbar are all legible.\n\nScore: 67/100\n\n---",
+    "reason": null
+  },
+  {
+    "file": "3d_7",
+    "score": 0,
+    "reason": "no_pdf"
+  },
+  {
+    "file": "3d_8",
+    "score": 0,
+    "reason": "no_pdf"
+  },
+  {
+    "file": "3d_9",
+    "score": 0,
+    "reason": "no_pdf"
+  },
+  {
+    "file": "3d_10",
+    "score": 0,
+    "reason": "no_pdf"
+  }
+]
