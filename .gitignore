@@ -5,6 +5,7 @@ __pycache__
 trash
 results/*
 !results/**/*.json
+!results/*.json
 *.ipynb
 *.png
 *.bak
