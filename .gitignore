@@ -3,7 +3,8 @@ __pycache__
 .env
 .ipynb_checkpoints
 trash
-*results
+results/*
+!results/**/*.json
 *.ipynb
 *.png
 *.bak

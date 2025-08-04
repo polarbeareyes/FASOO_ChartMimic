@@ -16,7 +16,7 @@ def extract_code(text):
     code = re.findall(r"```python(.*?)```", text, re.DOTALL)
     if len(code) == 0:
         code = ["import matplotlib.pyplot as plt"]
-    return code
+    return [code[-1]]
 # def extract_code(text):
 #     """Extract the last code block enclosed in <code>...</code> tags."""
 #     code_blocks = re.findall(r"<code>(.*?)</code>", text, re.DOTALL)

@@ -12,4 +12,4 @@ bash scripts/direct_mimic/run_code.sh
 echo "Step 3: Get Lowlevel Score"
 bash scripts/direct_mimic/run_evaluation_lowlevel.sh
 
-echo "Done for Gemma with max_tokens 4096"
+echo "Done for louisglobal/gemma-desc2code with data_1800"
