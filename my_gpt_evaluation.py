@@ -103,7 +103,6 @@ class Evaluator:
             })
 
         self._save_results()
-    
     def _evaluate(self, org_png, gen_png):
         prompt = """
         "You are an excellent judge at evaluating visualization chart plots. 
@@ -139,7 +138,7 @@ class Evaluator:
 
         try:
             response = client.chat.completions.create(
-                model="o4-mini",
+                model="gpt-4o-mini",
                 messages=[
                     {"role": "user", "content": prompt},
                     {"role": "user", "content": [
@@ -187,6 +186,6 @@ class Evaluator:
 if __name__ == "__main__":
     evaluator = Evaluator(
         original_dataset_dir="/root/SOJUNG_STUFF/ChartMimic/dataset/direct_600",
-        generated_dataset_dir="/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_deepseek-vl-7b-chat_DirectAgent_results/direct_checker",
-        results_dir="/root/SOJUNG_STUFF/ChartMimic/highlv_eval/deepseek-vl-7b-chat_gpt-4o"
+        generated_dataset_dir="/root/SOJUNG_STUFF/ChartMimic/results/direct/chart2code_gemma-cosine_DirectAgent_results/direct_checker",
+        results_dir="/root/SOJUNG_STUFF/ChartMimic/highlv_eval/gemma-cosine_gpt-4o-mini"
     )
