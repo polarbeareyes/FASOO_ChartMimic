@@ -1,0 +1,44 @@
+
+{"file":"\/root\/SOJUNG_STUFF\/ChartMimic\/dataset\/ori_600\/scatter_2.pdf","response":"user\nYou are an expert Python developer who specializes in writing matplotlib
+ code based on a given picture. I found a very nice picture in a STEM paper, but there is no corresponding source code available. I need your help to generate the Pytho
+ n code that can reproduce the picture based on the picture I provide.\nNote that it is necessary to use figsize=(4.0, 8.0) to set the image size to match the original size
+ .\nNow, please give me the matplotlib code that reproduces the picture below.\n\n\n\n\nmodel\nStep 1: Prepare the data\nThe data for the plot is provided in the following d
+ ictionary:\n```python\ndata = {\n    'Energy Production': {\n        'Solar Energy': [175, 200, 225, 250, 275],\n        'Wind Energy': [140, 160, 180, 200, 220],\n      
+ 'Hydropower': [130, 150, 170, 190, 210]\n    }\n}\n```\n\nStep 2: Create the figure and axes\n```python\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nfig, ax = plt.sub
+ plots(figsize=(4.0, 8.0))\n```\n\nStep 3: Plot the data\n```python\ncolors = ['#6495ED', '#FF69B4', '#808080']\nmarkers = ['o', 's', 'd']\n\nfor i, (energy_type, values) in enumera
+ te(data['Energy Production'].items()):\n    ax.plot(values, label=energy_type, color=colors[i], marker=markers[i], linestyle='dashed', linewidth=2)\n\nax.set_title('Energy Production 
+ Trends', fontsize=14)\nax.set_xlabel('Installed Capacity (GW)', fontsize=12)\nax.set_ylabel('Energy Output (TW)', fontsize=12)\nax.legend(loc='upper left')\n```\n\nStep 4: Customize 
+ the plot\n```python\nax.grid(True, linestyle='--')\nax.set_xlim(130, 300)\nax.set_ylim(130, 275)\nax.set_xticks(np.arange(130, 301, 50))\nax.set_yticks(np.arange(130, 276, 20))\n```\
+     n\nStep 5: Save the plot\n```python\nplt.tight_layout()\nplt.savefig('save_path', bbox_inches='tight', dpi=80)\n```\n\nStep 6: Clean up\n```python\nplt.close()\n```\n\nThe complete
+     code is as follows:\n```python\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n# Prepare the data\ndata = {\n    'Energy Production': {\n        'Solar Energy': [175, 200, 
+     225, 250, 275],\n        'Wind Energy': [140, 160, 180, 200, 220],\n        'Hydropower': [130, 150, 170, 190, 210]\n    }\n}\n\n# Create the figure and axes\nfig, ax = plt.subplot
+     s(figsize=(4.0, 8.0))\n\n# Plot the data\ncolors = ['#6495ED', '#FF69B4', '#808080']\nmarkers = ['o', 's', 'd']\n\nfor i, (energy_type, values) in enumerate(data['Energy Production
+     '].items()):\n    ax.plot(values, label=energy_type, color=colors[i], marker=markers[i], linestyle='dashed', linewidth=2)\n\nax.set_title('Energy Production Trends', fontsize=14)\n
+     ax.set_xlabel('Installed Capacity (GW)', fontsize=12)\nax.set_ylabel('Energy Output (TW)', fontsize=12)\nax.legend(loc='upper left')\n\n# Customize the plot\nax.grid(True, linestyl
+     e='--')\nax.set_xlim(130, 300)\nax.set_ylim(130, 275)\nax.set_xticks(np.arange(130, 301, 50))\nax.set_yticks(np.arange(130, 276, 20))\n\n# Save the plot\nplt.tight_layout()\nplt.sa
+     vefig('save_path', bbox_inches='tight', dpi=80)\n\n# Clean up\nplt.close()\n```"}
+
+
+{"file":"\/root\/SOJUNG_STUFF\/ChartMimic\/dataset\/ori_600\/PIP_17.pdf","response":"user\nYou are an expert Python developer who specializes in writing matplotlib code based on a given p
+ icture. I found a very nice picture in a STEM paper, but there is no corresponding source code available. I need your help to generate the Python code that can reproduce the picture base
+ d on the picture I provide.\nNote that it is necessary to use figsize=(8.0, 6.0) to set the image size to match the original size.\nNow, please give me the matplotlib code that reproduce
+ s the picture below.\n\n\n\n\nmodel\nStep 1: Prepare the data\nThe data is provided in a dictionary format, where the keys are years and the values are lists of revenue figures for Apple
+ and Microsoft.\n```python\ndata = {\n    'Year': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020],\n    'Apple': [50000, 55000, 60000, 65000, 70000, 75000, 80000, 85000
+ , 90000, 95000, 100000],\n    'Microsoft': [20000, 22000, 24000, 26000, 28000, 30000, 32000, 34000, 36000, 38000, 40000]\n}\n```\n\nStep 2: Create the figure and axes\n```python\nimport 
+ matplotlib.pyplot as plt\nimport numpy as np\n\nfig, ax = plt.subplots(figsize=(8.0, 6.0))\n```\n\nStep 3: Plot the data\n```python\nyears = data['Year']\napple_revenue = data['Apple']\n
+ microsoft_revenue = data['Microsoft']\n\n# Plot Apple revenue with exponential growth\nax.plot(years, apple_revenue, marker='o', linestyle='-', color='red', label='Apple | Exponential G
+ rowth')\n\n# Plot Microsoft revenue with linear growth\nax.plot(years, microsoft_revenue, marker='x', linestyle='--', color='purple', label='Microsoft | Linear Growth')\n\n# Add annotat
+ ions for Apple revenue\nfor i, revenue in enumerate(apple_revenue):\n    ax.annotate(f'${revenue:,.0f}', (years[i], revenue), textcoords=\"offset points\", xytext=(0,5), ha='center')\n\
+     n# Add annotations for Microsoft revenue\nfor i, revenue in enumerate(microsoft_revenue):\n    ax.annotate(f'${revenue:,.0f}', (years[i], revenue), textcoords=\"offset points\", xyt
+     ext=(0,5), ha='center')\n```\n\nStep 4: Customize the plot\n```python\nax.set_xlabel('Year')\nax.set_ylabel('Revenue (USD)')\nax.set_title('Revenue Growth of Apple and Microsoft (201
+     0-2020)')\nax.legend()\nax.grid(True)\n```\n\nStep 5: Save the plot\n```python\nplt.savefig('revenue_growth.png')\n```\n\nStep 6: Close the plot\n```python\nplt.close()\n```\n\nThe c
+     omplete code is provided below:\n```python\nimport matplotlib.pyplot as plt\nimport numpy as np\n\ndata = {\n    'Year': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 
+     2020],\n    'Apple': [50000, 55000, 60000, 65000, 70000, 75000, 80000, 85000, 90000, 95000, 100000],\n    'Microsoft': [20000, 22000, 24000, 26000, 28000, 30000, 32000, 34000, 36000,
+     38000, 40000]\n}\n\nfig, ax = plt.subplots(figsize=(8.0, 6.0))\n\nyears = data['Year']\napple_revenue = data['Apple']\nmicrosoft_revenue = data['Microsoft']\n\n# Plot Apple revenue w
+     ith exponential growth\nax.plot(years, apple_revenue, marker='o', linestyle='-', color='red', label='Apple | Exponential Growth')\n\n# Plot Microsoft revenue with linear growth\nax.pl
+     ot(years, microsoft_revenue, marker='x', linestyle='--', color='purple', label='Microsoft | Linear Growth')\n\n# Add annotations for Apple revenue\nfor i, revenue in enumerate(apple_r
+     evenue):\n    ax.annotate(f'${revenue:,.0f}', (years[i], revenue), textcoords=\"offset points\", xytext=(0,5), ha='center')\n\n# Add annotations for Microsoft revenue\nfor i, revenue 
+     in enumerate(microsoft_revenue):\n    ax.annotate(f'${revenue:,.0f}', (years[i], revenue), textcoords=\"offset points\", xytext=(0,5), ha='center')\n\nax.set_xlabel('Year')\nax.set_yl
+     abel('Revenue (USD)')\nax.set_title('Revenue Growth of Apple and Microsoft (2010-2020)')\nax.legend()\nax.grid(True)\n\nplt.savefig('revenue_growth.png')\nplt.close()\n```"}
+
+
